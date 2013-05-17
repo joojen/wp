@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Typegrid\n"
+"POT-Creation-Date: 2013-03-14 22:58+0100\n"
+"PO-Revision-Date: 2013-04-16 10:19+0800\n"
+"Last-Translator: joojen <joojen@gmail.com>\n"
+"Language-Team: joojen <joojen@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Something went wrong."
+msgstr "发生了一些错误。"
+
+#: ../404.php:12
+msgid "The page you are looking for could not be found."
+msgstr "未找到你要查看的页面。"
+
+#: ../404.php:16 ../search.php:17
+msgid "Search"
+msgstr "搜索"
+
+#: ../search.php:12
+msgid "No search results"
+msgstr "未找到搜索的内容"
+
+#: ../search.php:13
+msgid "The good news is you can try again."
+msgstr "很高兴告诉你可以再试一次。"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "输入搜索内容然后回车"
+
+#: ../sidebar.php:3 ../page-templates/child-menu-left.php:30
+#: ../page-templates/child-menu-right.php:30
+msgid "Expand Sidebar"
+msgstr "扩展栏"
+
+#: ../sidebar.php:7 ../single-full-top.php:60 ../single-full.php:60
+#: ../single.php:50
+msgid "Previous story"
+msgstr "上一篇文章"
+
+#: ../sidebar.php:8 ../single-full-top.php:61 ../single-full.php:61
+#: ../single.php:51
+msgid "Next story"
+msgstr "下一篇文章"
+
+#: ../single-full-top.php:17 ../single-full.php:17 ../single.php:15
+#: ../partials/loop-alt.php:14
+msgid "by"
+msgstr ""
+
+#: ../single-full-top.php:19 ../single-full.php:19 ../single.php:17
+#: ../partials/loop-alt.php:16 ../partials/loop.php:22
+msgid "at"
+msgstr ""
+
+#: ../single-full-top.php:36 ../single-full.php:36 ../single.php:26
+msgid "Pages:"
+msgstr "页面："
+
+#: ../single-full-top.php:44 ../single-full.php:44 ../single.php:34
+msgid "Tags:"
+msgstr "标签"
+
+#: ../single.php:16 ../partials/loop-alt.php:15 ../partials/loop.php:21
+msgid "in"
+msgstr ""
+
+#: ../page-templates/sitemap.php:25
+msgid "Pages"
+msgstr "页面"
+
+#: ../page-templates/sitemap.php:29
+msgid "All Articles"
+msgstr "所有文章"
+
+#: ../page-templates/sitemap.php:39
+msgid "Feeds"
+msgstr ""
+
+#: ../page-templates/sitemap.php:41
+msgid "Main RSS"
+msgstr ""
+
+#: ../page-templates/sitemap.php:42
+msgid "Comment Feed"
+msgstr ""
+
+#: ../page-templates/sitemap.php:44
+msgid "Categories"
+msgstr "分类"
+
+#: ../page-templates/sitemap.php:46
+msgid "Archives"
+msgstr "存档"
+
+#: ../partials/loop-alt.php:33 ../partials/loop.php:37
+msgid "(more...)"
+msgstr "(更多...)"
+
+#: ../partials/newsflash.php:59 ../widgets/widget-tabs.php:315
+msgid "Most Popular"
+msgstr "热门文章"
+
+#: ../partials/newsflash.php:61
+msgid "All time"
+msgstr "所有时间"
+
+#: ../partials/newsflash.php:62
+msgid "This month"
+msgstr "本月"
+
+#: ../partials/newsflash.php:63
+msgid "This week"
+msgstr "本周"
+
+#: ../partials/newsflash.php:64
+msgid "Last 24 hours"
+msgstr "过去24小时"
+
+#: ../partials/newsflash.php:92
+msgid "Latest Stories"
+msgstr "最新文章"
+
+#: ../partials/newsflash.php:93
+msgid "What is new?"
+msgstr "有什么最新看点？"
+
+#: ../partials/newsflash.php:131 ../widgets/widget-tabs.php:316
+msgid "Comments"
+msgstr "评论"
+
+#: ../partials/newsflash.php:132
+msgid "Most Recent"
+msgstr "最新"
+
+#: ../partials/page-title.php:8
+msgid "Search results for:"
+msgstr "篇文章关于："
+
+#: ../partials/page-title.php:13
+msgid "Error 404."
+msgstr ""
+
+#: ../partials/page-title.php:13
+msgid "Oops!"
+msgstr "哎呀！"
+
+#: ../partials/page-title.php:24
+msgid "Author:"
+msgstr "作者："
+
+#: ../partials/page-title.php:29
+msgid "Category:"
+msgstr "分类："
+
+#: ../partials/page-title.php:40
+msgid "Tagged:"
+msgstr "标签："
+
+#: ../partials/page-title.php:45
+msgid "Daily Archive:"
+msgstr "每日存档："
+
+#: ../partials/page-title.php:50
+msgid "Monthly Archive:"
+msgstr "按月存档："
+
+#: ../partials/page-title.php:55
+msgid "Yearly Archive:"
+msgstr "按年存档："
+
+#: ../partials/related-posts.php:4
+msgid "You may also like..."
+msgstr "你可能也喜欢..."
+
+#: ../widgets/widget-tabs.php:314
+msgid "Recent Posts"
+msgstr "最新文章"
+
+#: ../widgets/widget-tabs.php:317
+msgid "Tags"
+msgstr "标签云"
+
+#: ../widgets/widget-tabs.php:532
+msgid "on:"
+msgstr ""
