@@ -2,4 +2,4 @@
 
 一来是为了记录，以防时间久了自己忘记；二来是分享，希望能得到更多人的帮助。
 
-我的博客 http://www.keege.com
+Website http://www.keege.com
