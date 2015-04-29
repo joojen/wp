@@ -34,8 +34,9 @@
 		</hgroup>
 		<div id="toolbar">
 			<div id="rss"><a href="<?php bloginfo('rss2_url'); ?>" title="RSS Feed">RSS</a></div>
-			<form id="searchform" method="get" action="<?php echo esc_url( home_url( '/' ) ); ?>">
+			<form id="searchform" method="get" action="http://www.baidu.com/baidu">
 				<input type="text" value="<?php the_search_query(); ?>" name="s" id="s" size="30" placeholder="Search" autocomplete="off" required />
+				<input name="si" value="www.keege.com" type="hidden">
 				<button type="submit">Search</button>
 			</form>
 		</div>
