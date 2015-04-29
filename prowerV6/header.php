@@ -35,8 +35,13 @@
 		<div id="toolbar">
 			<div id="rss"><a href="<?php bloginfo('rss2_url'); ?>" title="RSS Feed">RSS</a></div>
 			<form id="searchform" method="get" action="http://www.baidu.com/baidu">
-				<input type="text" value="<?php the_search_query(); ?>" name="s" id="s" size="30" placeholder="Search" autocomplete="off" required />
-				<input name="si" value="www.keege.com" type="hidden">
+				
+				<input name="word" size="30" placeholder="Search" type="text">
+				<input name="ie" value="utf-8" type="hidden"> 
+				<input name="tn" value="bds" type="hidden">
+				<input name="cl" value="3" type="hidden">
+				<input name="ct" value="2097152" type="hidden">
+				<input name="si" value="joojen.com" type="hidden">
 				<button type="submit">Search</button>
 			</form>
 		</div>
