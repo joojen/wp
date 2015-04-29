@@ -1,0 +1,11 @@
+
+/*---------------------
+  Archive Page
+-----------------------*/
+
+.archive-list {
+	margin-top: 1.2em;
+	}
+.archive-list li a img {
+	border: 0 solid;
+	}

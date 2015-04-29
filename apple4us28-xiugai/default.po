@@ -1,0 +1,541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Theme 2.7\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-11-22 17:16+0800\n"
+"Last-Translator: dupola <dupola.com@gmail.com>\n"
+"Language-Team: dupola <dupola.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-Basepath: D:\\usr\\www\\wp-content\\themes\\apple4us27\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\usr\\www\\wp-content\\themes\\apple4us27\n"
+
+# D:\usr\www\wp-content\themes\apple4us/page.php:25
+# D:\usr\www\wp-content\themes\apple4us/search.php:52
+# D:\usr\www\wp-content\themes\apple4us/single.php:50
+# D:\usr\www\wp-content\themes\apple4us/page-links.php:34
+# D:\usr\www\wp-content\themes\apple4us/image.php:61
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "Try to search all the site below,"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "or back to the"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "homepage"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:13
+# D:\usr\www\wp-content\themes\apple4us/archive.php:15
+# D:\usr\www\wp-content\themes\apple4us/archive.php:17
+msgid "Archive for"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:9
+msgid "Category"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:18
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+msgid "on"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (0)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (1)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (%)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:16
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Edit"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:21
+# D:\usr\www\wp-content\themes\apple4us/search.php:24
+# D:\usr\www\wp-content\themes\apple4us/single.php:22
+# D:\usr\www\wp-content\themes\apple4us/archive.php:37
+# D:\usr\www\wp-content\themes\apple4us/image.php:24
+msgid "(more...)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:24
+# D:\usr\www\wp-content\themes\apple4us/search.php:27
+# D:\usr\www\wp-content\themes\apple4us/single.php:17
+# D:\usr\www\wp-content\themes\apple4us/archive.php:40
+# D:\usr\www\wp-content\themes\apple4us/image.php:17
+msgid "Filed under:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:27
+# D:\usr\www\wp-content\themes\apple4us/single.php:20
+# D:\usr\www\wp-content\themes\apple4us/archive.php:39
+msgid "Tags:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:24
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:77
+msgid "Tag Cloud"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:33
+msgid "All"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:33
+msgid "posts"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:43
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:42
+msgid "Categories"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:49
+msgid "Archives"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/page.php:17
+# D:\usr\www\wp-content\themes\apple4us/tags.php:18
+# D:\usr\www\wp-content\themes\apple4us/archives.php:62
+# D:\usr\www\wp-content\themes\apple4us/page-links.php:26
+msgid "Edit Page"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:20
+msgid "Personal Site:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:21
+msgid "Contact E-Mail:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:24
+msgid "So far,"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:24
+msgid "has blogged"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:41
+msgid "No posts by this author."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:25
+msgid "The post you are trying to comment on does not curently exist in the database."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:30
+# D:\usr\www\wp-content\themes\apple4us/comments.php:106
+# D:\usr\www\wp-content\themes\apple4us/comments.php:180
+msgid "Sorry, comments are closed for this item."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:45
+msgid "Sorry, you must be logged in to post a comment."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:54
+msgid "Error: please fill the required fields (name, email)."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:58
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:64
+msgid "Error: please type a comment."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "No Comments"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "1 Comment so far"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "% Comments so far"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:64
+msgid "Permalink to this comment"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:67
+msgid "Your comment has been submitted. It is now awaiting approval."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/comments-paged.php:89
+msgid "Pages:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:78
+msgid "Trackbacks/Pingbacks."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:98
+msgid "Be the first to comment on this entry."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:113
+msgid "Posting your comment&hellip;"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:119
+msgid "Leave a comment"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "You must be"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "logged in"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "to post a comment."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:138
+msgid "Name"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:138
+# D:\usr\www\wp-content\themes\apple4us/comments.php:141
+msgid "(required)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:141
+msgid "Mail (will not be published)"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:144
+msgid "Website"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:155
+msgid "Submit Comment"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+msgid "Logged in as"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Log out of this account"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout &raquo;"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "Fields in"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "bold"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "are required. Email addresses are"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "never"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "published or distributed."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:167
+msgid "Some HTML code is allowed:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "URLs must be fully qualified"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "eg:"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "and all tags must be properly closed."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "Line breaks and paragraphs are automatically converted."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:169
+msgid "Please keep comments relevant. Off-topic, offensive or inappropriate comments"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:169
+msgid "may"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:169
+msgid "be edited or removed."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:10
+msgid "Copyright"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:11
+msgid "Powered by"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "Unless otherwise specified, all content is made available under the"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "CC Creative Commons License"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "."
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/single.php:42
+# D:\usr\www\wp-content\themes\apple4us/image.php:47
+msgid "Home"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/searchform.php:3
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:67
+msgid "Search"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:8
+msgid "Subscribe"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:35
+msgid "Pages"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:49
+msgid "Monthly Archives"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:53
+msgid "Recent Comments"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:9
+msgid "Quick Admin"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "View the blog's summary"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "Dashboard"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:9
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "Admin"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:17
+msgid "Create a new post"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:17
+msgid "New Entry"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:17
+msgid "Post"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "Create a new page"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "New Page"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "Page"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:19
+# D:\usr\www\wp-content\themes\apple4us27/sidebar3.php:19
+msgid "Administer the Widgets"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:19
+msgid "Manage Entries"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:19
+# D:\usr\www\wp-content\themes\apple4us27/sidebar3.php:19
+msgid "Widgets"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:20
+msgid "Administer the links"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:20
+msgid "Links"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:21
+msgid "Administer the Media"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:21
+msgid "Media"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:28
+msgid "Administer the comments"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:28
+msgid "Comments"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:28
+msgid "Comms"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:29
+msgid "Change the blog's look and feel"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:29
+msgid "Design"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:30
+msgid "Administer the plugins"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:30
+msgid "Plugins"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:31
+msgid "Change the blog's options"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:31
+msgid "Options"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:32
+msgid "Administer the users"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:32
+msgid "Users"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout of Wordpress"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:42
+msgid "About"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "Welcome to"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "I am"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "More about here"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:90
+msgid "Recent Posts"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:98
+msgid "Recent Readers"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:109
+msgid "Meta"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/comments.php:26
+msgid "Leave a response"
+msgstr ""
+
+# D:\usr\www\wp-content\themes\apple4us27/comments.php:28
+msgid "Trackback Address"
+msgstr ""
+

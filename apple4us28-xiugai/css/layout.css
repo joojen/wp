@@ -1,0 +1,141 @@
+/* Layout ----------------------------------------------------------------- */
+
+#entry, #entry-wider, #entry-wide, #sb1, #sb2, #sb3 {
+float:left;
+overflow: hidden;
+padding-right: 0;
+padding-left: 0;
+}
+
+.layout #entry {
+width: 540px;
+}
+
+.layout #entry-wide {/* for the wider content area,like single post page.*/
+width: 665px;
+margin-left:5px;
+margin-right:0;
+}
+
+.layout #entry-wider {/* for the wider content area,like 404 error page.*/
+width: 98%;
+}
+
+.layout #sb1 {
+width: 195px;
+}
+
+.layout #sb2 {
+width: 250px;
+}
+
+.layout #sb3 {
+width: 305px;
+margin-right:5px;
+}
+
+#content {
+margin-top: 20px;
+margin-bottom: 30px;
+MARGIN-RIGHT: 0;
+MARGIN-LEFT: 5px
+background-color: #fff;
+width: 99%;
+}
+
+#container-inner {
+width: 100%;
+margin: 0;
+min-height: 100%;
+text-align: center;
+padding: 0;
+text-align:left
+}
+
+#entry {
+margin-left:2px;
+}
+#entry-content{
+margin-left:5px;
+}
+
+.content-nav {
+margin: 5px 20px;
+font-size:13px;
+background-color: #F4FCFF;
+border: 1px solid #E1F5FF;
+padding:4px;
+text-align: center;
+}
+
+.content-bg-bottom {
+clear:both;
+height:22px;
+margin:0;
+padding:0;
+width:100%;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignright {
+background-position: right 4px !important;
+padding-right: 5px !important;
+float: right !important;
+}
+
+.alignleft {
+background-position: left 4px !important;
+padding-left: 5px !important;
+float: left !important;
+}
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.mediaright {
+	float: right;
+	}
+
+.medialeft {
+	float: left
+	}
+.medianavi {
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	}
+
+/* Begin for WordPress2.6 Captions*/
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+/* End for WordPress2.6 Captions*/

@@ -1,0 +1,108 @@
+/*Misc ------------------------------------------------------------------ */
+.category-img-bar {
+text-decoration:none;
+margin:0 0 7px 0;
+}
+
+#douban img-bar {
+width: 48px;
+height: 48px;
+margin: 0px;
+padding:0px;
+border: 0px solid #CCCCCC;
+}
+
+/* Hacked For MyBlogLog Widget------------------------------------------------------------ */
+.mbl_fo_hidden{display:none;}
+.mbl_join_img{display:none;}
+#tr0{display:none;}
+
+/* added feed ------------------------------------------------------------ */
+
+.feedicon {
+border: 1px solid #E4E4E4;
+text-align: left;
+display: block;
+margin: 2px 0 2px 0;
+clear: left;
+overflow: visible;
+font-size: 10px;
+background-color: #F3F3F3;
+}
+.feedicon img{
+border: none;
+padding: 2px;
+}
+.feedsub{
+text-align: left;
+display: block;
+padding: 0px;
+font-size: 10px;
+}
+.feedsub img{
+float: left;
+border-style: none;
+padding: 0 8px 6px 2px;
+}
+.feedsub_title{
+font-size: 14px;
+line-height: 18px;
+}
+.feedsub a:hover{
+text-decoration: none !important;
+}
+
+.important{
+padding:2px 2px 2px 20px;
+background: url(../images/icon_important.png) no-repeat left top;
+line-height: 14px;
+background-color: #f4fcff;
+border: 1px solid #e1f5ff;
+margin: 0 0 4px 0;
+font-size:12px;
+clear:both;
+}
+
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	max-width:100%;
+}
+
+.wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+
+.content-nav, .headermenu a, .headermenu a:visited, h2.pagetitle, .feedicon, .comment-content, .comment-entry,
+.comment-entry-alt,
+.comment-entry-owner, .comment-input, .comment-input, #commentform textarea, #comments-guidelines-info,#loading,#errors, .trackbacks-content{
+-moz-border-radius-bottomleft:5px;
+-moz-border-radius-bottomright:5px;
+-moz-border-radius-topleft:5px;
+-moz-border-radius-topright:5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px; 
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-khtml-border-radius-topleft:5px; 
+-khtml-border-radius-topright:5px; 
+-khtml- border-radius-bottomleft:5px; 
+-khtml-border-radius-bottomright:5px;
+border-radius:5px;
+}

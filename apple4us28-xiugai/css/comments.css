@@ -1,0 +1,259 @@
+/* Comments Feedback ----*/
+.commentblock {
+margin: 10px 20px;
+overflow: hidden;
+padding: 4px;
+clear: both;
+font-size: 13px;
+}
+
+#trackbacks-list,.comments-form{
+clear:both;
+}
+
+#commentblock ul.children {
+margin-left:10px;
+margin-right:10px;
+}
+
+.comment-content {
+width: 84%;
+float: left;
+font-size: 13px;
+padding: 6px 6px 3px 10px;
+margin:0px;
+text-align: left;
+overflow: hidden;
+display: block;
+border:1px solid #CCCCCC;
+-moz-border-radius-bottomleft:5px;
+-moz-border-radius-bottomright:5px;
+-moz-border-radius-topleft:5px;
+-moz-border-radius-topright:5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px; 
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-khtml-border-radius-topleft:5px; 
+-khtml-border-radius-topright:5px; 
+-khtml- border-radius-bottomleft:5px; 
+-khtml-border-radius-bottomright:5px;
+border-radius:5px;
+}
+
+.comment-entry,
+.comment-entry-alt,
+.comment-entry-owner {
+width: 84%;
+float: left;
+font-size: 14px;
+padding: 6px 6px 3px 10px;
+margin:0px;
+background:#F6F6F6 none repeat scroll 0 0;
+border:1px solid #E1E1E1;
+text-align: left;
+overflow: hidden;
+display: block;
+-moz-border-radius-bottomleft:5px;
+-moz-border-radius-bottomright:5px;
+-moz-border-radius-topleft:5px;
+-moz-border-radius-topright:5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px; 
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-khtml-border-radius-topleft:5px; 
+-khtml-border-radius-topright:5px; 
+-khtml- border-radius-bottomleft:5px; 
+-khtml-border-radius-bottomright:5px;
+border-radius:5px;
+}
+
+.feedback-gravatar {
+padding: 2px;
+border: 0px solid #EAEAEA;
+margin: 0;
+clear: right;
+float: right;
+top: 0px;
+}
+.feedback-content {
+margin: 2px 6px 16px 6px;
+}
+.feedback-footer {
+width: 84%;
+color: #999;
+padding: 6px 6px;
+font-size: 14px;
+background: url(../images/comment-bg.gif) 0 0 no-repeat;
+clear: left;
+}
+.feedback-footer-content,
+.feedback-footer-owner {
+width: 84%;
+color: #999;
+padding: 6px 6px;
+font-size: 12px;
+background: url(../images/comment-bg2.gif) 0 0 no-repeat;
+clear: left;
+}
+.trackbackurl
+.feedback-title {
+color: #000000;
+font-size: 14px;
+}
+
+.comment-form{
+padding:4px 0;
+}
+.comment-input{
+padding:2px;
+width:260px !important;
+height:14px;
+font-size:12px;
+color:#777777;
+border:1px solid #6A9ABD;
+}
+.trackback-content,
+.comments-form-content {
+margin: 5px 0;
+}
+
+.trackpingstitle
+.comments,
+.comments-form-header {
+margin: 0;
+padding: 5px 0;
+font-size: 16px;
+font-weight: bold;
+}
+
+.comments-form label {
+display: block;
+}
+#commentform label {
+	display: block;
+	float: right;
+	padding: 0.4em 0.5em 0.1em;
+	width: 45%;
+	}
+#commentform label.required {
+	font-weight: bold;
+	}
+
+#commentform textarea {
+    padding:4px 0;
+	font-size: 1em;
+	}
+
+#author, #email, #url, #comment {
+width: 80%;
+}
+
+#submit {
+font-weight: bold;
+padding: 0.4em 0.5em 0.1em;
+}
+
+#errors {
+	background: #ffc;
+	border: 1px solid #fc0;
+	border-width: 1px 0;
+	font-style: italic;
+	margin: 1em 0;
+	padding: 1em;
+	}
+
+#comments-guidelines-info,#loading  {
+	background: #ffc;
+	border: 1px solid #fc0;
+	border-width: 1px 0;
+	margin: 0 0 1.5em;
+	width: 84%;
+	padding: 0.3em 1.5em;
+	}
+ol#commentlist {
+margin: 0;
+	}
+ol#commentlist li {
+	margin: 2px 6px 16px 6px;
+	list-style-type: none;
+	}
+
+.trackbacks-content {
+width: 84%;
+font-size: 12px;
+padding: 6px 6px 3px 10px;
+margin:6px 0;
+background: #E1F1FF;
+text-align: left;
+overflow: hidden;
+display: block;
+}
+
+/** Quicktags **/
+#commentsform .quicktags {
+	margin-top: 10px;
+}
+
+#commentsform .quicktags input {
+	background: #f9f9f9 url(../images/button-bg.png) repeat-x;
+	border: 1px solid #aaaaaa;
+	font-size: .9em;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	width: auto;
+	margin: 1px 2px 2px 0px;
+	padding: 0px 1px 0px 1px;
+	}
+
+	#commentsform .quicktags input:hover {
+		border: 1px solid #cc0033;
+	}
+
+/* Begin Hack for subscribe-to-comments */
+#subscription_checkbox p.subscribe-to-comments input {
+	margin: 0 5px 0 0;
+	}
+#subscription_checkbox p.subscribe-to-comments label {
+    display: inline !important;
+        }
+/*  End Hack for subscribe-to-comments*/
+
+/** comments-guide-box ul **/
+ul.comments-guide-box{
+padding:0 0 5px 0;
+margin-left:0 !important;
+list-style:none;
+height:30px;
+clear:both;
+}
+
+li.cgbox-feed{
+float:left;
+line-height:20px!important;
+color:#4371A0;
+margin:0 10px 0 0;
+padding:0 0 0 20px;
+background:transparent url("../images/comments_guide_box_feed.png") no-repeat left center;
+}
+
+li.cgbox-comment{
+float:left;
+line-height:20px!important;
+color:#4371A0;
+margin:0 10px 0 0;
+padding:0 0 0 20px;
+background:transparent url("../images/comments_guide_box_comment.png") no-repeat left center;
+}
+
+li.cgbox-trackback{
+float:left;
+line-height:20px!important;
+color:#4371A0;
+margin:0 10px 0 0;
+padding:0 0 0 20px;
+background:transparent url("../images/comments_guide_box_trackback.png") no-repeat left center;
+}
+
+/** comments-guide-box ul **/

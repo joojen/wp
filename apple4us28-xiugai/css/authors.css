@@ -1,0 +1,74 @@
+/* Single Author Page */
+.author_post_count {
+text-align: left;
+display: block;
+padding: 0px;
+font-size: 15px;
+margin: 10px 16px 10px 18px;
+}
+.author_info{
+text-align: left;
+display: block;
+padding: 0px;
+font-size: 14px;
+margin: 10px 16px 10px 16px;
+}
+.author_info img{
+float: left;
+border-style: none;
+padding: 0 8px 6px 2px;
+}
+.author_info_description{
+font-size: 14px;
+line-height: 18px;
+}
+.author_noposts {
+text-align: center;
+display: block;
+padding: 0px;
+font-size: 14px;
+margin: 10px 16px 20px 16px;
+background: #ffc;
+border: 1px solid #fc0;
+border-width: 1px 0;
+}
+.single-author-posts ul{
+margin: 0;
+padding: 0 0 0 6px;
+line-height: 1.5em;
+display:block;
+clear:both;
+}
+
+/*Authors List Page*/
+.author-list-page{
+text-align: left;
+display: block;
+padding: 0px;
+font-size: 14px;
+margin: 10px 16px 20px 16px;
+}
+
+/*authors list on Sidebar&Widgets*/
+#author-list-bar {
+overflow: hidden;
+margin: 1px;
+padding: 0;
+float: left;
+text-align: center;
+width: 54px;
+}
+#author-list-bar img {
+width: 48px;
+height: 48px;
+margin: 0px;
+padding:0px;
+border: 1px solid #CCCCCC;
+}
+
+.author-name-bar {
+font-size:12px;
+overflow:hidden;
+height:26px;
+line-height:13px;
+}

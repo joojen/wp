@@ -1,0 +1,21 @@
+/*  
+Theme Name: Apple Theme
+Theme URI: http://dupola.com/wordpress/apple/
+Description: A simple and clean theme in 3 and 2 Columns Mixed for WordPress by <a href="http://dupola.com" target="_blank">dupola</a>. <br/>Widgets support,Gravatar support,WP-PageNavi support,wp-realted posts support. <br />More information to see readme.txt in the theme folder.中文用户请看:<a href="http://dupola.com/post/203" target="_blank">http://dupola.com/post/203</a>
+Version: 2.8
+Author: dupola
+Author URI: http://dupola.com/
+Tags: dupola, apple, widgets,widget ready,3 columns,fixed width,valid CSS,valid XHTML,grey,simple,white,hot,top
+*/
+@import url("css/basic.css");
+@import url("css/layout.css");
+@import url("css/header.css");
+@import url("css/content.css");
+@import url("css/sidebar.css");
+@import url("css/footer.css");
+@import url("css/comments.css");
+@import url("css/archives.css");
+@import url("css/misc.css");
+@import url("css/pagenavi.css");
+@import url("css/lifestream.css");
+@import url("css/authors.css");

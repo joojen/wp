@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Theme 2.8  Chinese\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-12-30 21:28+0800\n"
+"Last-Translator: dupola <dupola.com@gmail.com>\n"
+"Language-Team: dupola <dupola.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-Basepath: D:\\usr\\www\\wp-content\\themes\\apple4us28\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\usr\\www\\wp-content\\themes\\apple4us28\n"
+
+# D:\usr\www\wp-content\themes\apple4us/page.php:25
+# D:\usr\www\wp-content\themes\apple4us/search.php:52
+# D:\usr\www\wp-content\themes\apple4us/single.php:50
+# D:\usr\www\wp-content\themes\apple4us/page-links.php:34
+# D:\usr\www\wp-content\themes\apple4us/image.php:61
+msgid "Sorry, no posts matched your criteria."
+msgstr "抱歉，没有匹配的日志。"
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "Try to search all the site below,"
+msgstr "搜索一下，"
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "or back to the"
+msgstr "或者返回"
+
+# D:\usr\www\wp-content\themes\apple4us27/404.php:14
+msgid "homepage"
+msgstr "主页"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:13
+# D:\usr\www\wp-content\themes\apple4us/archive.php:15
+# D:\usr\www\wp-content\themes\apple4us/archive.php:17
+msgid "Archive for"
+msgstr "归档于"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:9
+msgid "Category"
+msgstr "分类"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:11
+msgid "Posts Tagged"
+msgstr "标签为"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:19
+msgid "Author Archive"
+msgstr "作者存档"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:21
+msgid "Blog Archives"
+msgstr "Blog 归档"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:18
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+msgid "on"
+msgstr "于"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (0)"
+msgstr "评论 (0)"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (1)"
+msgstr "评论 (1)"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:15
+# D:\usr\www\wp-content\themes\apple4us/search.php:19
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Comments (%)"
+msgstr "评论 (%)"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:16
+# D:\usr\www\wp-content\themes\apple4us/single.php:16
+# D:\usr\www\wp-content\themes\apple4us/archive.php:32
+# D:\usr\www\wp-content\themes\apple4us/image.php:16
+msgid "Edit"
+msgstr "编辑"
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:21
+# D:\usr\www\wp-content\themes\apple4us/search.php:24
+# D:\usr\www\wp-content\themes\apple4us/single.php:22
+# D:\usr\www\wp-content\themes\apple4us/archive.php:37
+# D:\usr\www\wp-content\themes\apple4us/image.php:24
+msgid "(more...)"
+msgstr "阅读全文..."
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:24
+# D:\usr\www\wp-content\themes\apple4us/search.php:27
+# D:\usr\www\wp-content\themes\apple4us/single.php:17
+# D:\usr\www\wp-content\themes\apple4us/archive.php:40
+# D:\usr\www\wp-content\themes\apple4us/image.php:17
+msgid "Filed under:"
+msgstr "归类于："
+
+# D:\usr\www\wp-content\themes\apple4us/index.php:27
+# D:\usr\www\wp-content\themes\apple4us/single.php:20
+# D:\usr\www\wp-content\themes\apple4us/archive.php:39
+msgid "Tags:"
+msgstr "标签："
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:24
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:77
+msgid "Tag Cloud"
+msgstr "标签云"
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:33
+msgid "All"
+msgstr "共有"
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:33
+msgid "posts"
+msgstr "篇日志"
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:43
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:42
+msgid "Categories"
+msgstr "分类"
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:49
+msgid "Archives"
+msgstr "存档"
+
+# D:\usr\www\wp-content\themes\apple4us/page.php:17
+# D:\usr\www\wp-content\themes\apple4us/tags.php:18
+# D:\usr\www\wp-content\themes\apple4us/archives.php:62
+# D:\usr\www\wp-content\themes\apple4us/page-links.php:26
+msgid "Edit Page"
+msgstr "编辑页面"
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:20
+msgid "Personal Site:"
+msgstr "个人站点："
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:21
+msgid "Contact E-Mail:"
+msgstr "联系邮箱："
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:24
+msgid "So far,"
+msgstr "迄今为止，"
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:24
+msgid "has blogged"
+msgstr "一共发表了"
+
+# D:\usr\www\wp-content\themes\apple4us/author.php:46
+msgid "No posts by this author."
+msgstr "这位作者还没有发布任何文章。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章被保护，输入密码以查看评论。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "No Comments Now!"
+msgstr "当前没有评论！"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "1 Comment so far"
+msgstr "1 条评论了已经"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:22
+msgid "% Comments so far"
+msgstr "% 条评论了已经"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:119
+msgid "Leave a response"
+msgstr "发表评论"
+
+# D:\usr\www\wp-content\themes\apple4us28/comments.php:29
+msgid "Feed for this Entry"
+msgstr "跟踪本文评论"
+
+# D:\usr\www\wp-content\themes\apple4us27/comments.php:28
+msgid "Trackback Address"
+msgstr "Trackback 地址"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:78
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks."
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:98
+msgid "Be the first to comment on this entry."
+msgstr "第一个在本文留言。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments-ajax.php:30
+# D:\usr\www\wp-content\themes\apple4us/comments.php:106
+# D:\usr\www\wp-content\themes\apple4us/comments.php:180
+msgid "Sorry, comments are closed for this item."
+msgstr "抱歉，这篇日志的评论已关闭。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:113
+msgid "Posting your comment&hellip;"
+msgstr "评论发表中&hellip;"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:119
+msgid "Leave a comment"
+msgstr "发表评论"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "You must be"
+msgstr "你必须"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "logged in"
+msgstr "登录"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:122
+msgid "to post a comment."
+msgstr "才能发表评论。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:138
+msgid "Name"
+msgstr "名字"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:138
+# D:\usr\www\wp-content\themes\apple4us/comments.php:141
+msgid "(required)"
+msgstr "(必须)"
+
+# D:\usr\www\wp-content\themes\apple4us28/comments.php:105
+msgid "Mail "
+msgstr "邮箱"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:141
+msgid "(will not be published)"
+msgstr "（永不被公布）"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:144
+msgid "Website"
+msgstr "网址"
+
+# D:\usr\www\wp-content\themes\apple4us28/comments.php:108
+msgid "(recommended)"
+msgstr "（建议）"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:155
+msgid "Submit Comment"
+msgstr "提交评论"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+msgid "Logged in as"
+msgstr "登录为"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Log out of this account"
+msgstr "从当前账号退出"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:163
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout &raquo;"
+msgstr "退出 &raquo;"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "Fields in"
+msgstr "字体为"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "bold"
+msgstr "粗体"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "are required. Email addresses are"
+msgstr "是必填项目，邮箱地址"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "never"
+msgstr "永远不会"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:166
+msgid "published or distributed."
+msgstr "公布。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:167
+msgid "Some HTML code is allowed:"
+msgstr "允许部分 HTML 代码："
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "URLs must be fully qualified"
+msgstr "URLs(网站链接)必须完整有效"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "eg:"
+msgstr "比如："
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "and all tags must be properly closed."
+msgstr "所有标签都必须完整的关闭。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:168
+msgid "Line breaks and paragraphs are automatically converted."
+msgstr "超出部分系统将会自动分段及换行。"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:169
+msgid "Please keep comments relevant. Off-topic, offensive or inappropriate comments"
+msgstr "请保证评论内容是与日志或 Blog 内容相关的，灌水、攻击性或不恰当的评论"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:170
+msgid "may"
+msgstr "可能"
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:169
+msgid "be edited or removed."
+msgstr "会被编辑或删除。"
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:10
+msgid "Copyright"
+msgstr "版权所有"
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:11
+msgid "Powered by"
+msgstr "基于"
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "Unless otherwise specified, all content is made available under the"
+msgstr "除非特别声明，所有日志都遵循"
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "CC Creative Commons License"
+msgstr "创作共用"
+
+# D:\usr\www\wp-content\themes\apple4us/footer.php:12
+msgid "."
+msgstr "版权协议，署名－非商业"
+
+# D:\usr\www\wp-content\themes\apple4us28/functions.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正待审核..."
+
+# D:\usr\www\wp-content\themes\apple4us/comments.php:64
+msgid "Permalink to this comment"
+msgstr "这条评论的永久链接"
+
+# D:\usr\www\wp-content\themes\apple4us/single.php:42
+# D:\usr\www\wp-content\themes\apple4us/image.php:47
+msgid "Home"
+msgstr "首页"
+
+# D:\usr\www\wp-content\themes\apple4us/searchform.php:3
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:67
+msgid "Search"
+msgstr "搜索"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:8
+msgid "Subscribe"
+msgstr "订阅"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:35
+msgid "Pages"
+msgstr "页面"
+
+# D:\usr\www\wp-content\themes\apple4us/archive.php:21
+msgid "Monthly Archives"
+msgstr "按月存档"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:53
+msgid "Recent Comments"
+msgstr "最新评论"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:9
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "Quick Admin"
+msgstr "快捷管理"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "View the blog's summary"
+msgstr "进入后台，查看 blog 最新状态"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "Dashboard"
+msgstr "管理"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:9
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:12
+msgid "Admin"
+msgstr "控制台"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "Create a new post"
+msgstr "撰写一篇新日志"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:17
+msgid "New Entry"
+msgstr "撰写一篇新日志"
+
+# D:\usr\www\wp-content\themes\apple4us/archives.php:33
+msgid "Post"
+msgstr "日志"
+
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:17
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:17
+msgid "Edit your posts"
+msgstr "编辑你的日志"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "Create a new page"
+msgstr "撰写一个新的独立页面"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "New Page"
+msgstr "撰写一个新的独立页面"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:18
+msgid "Page"
+msgstr "页面"
+
+# D:\usr\www\wp-content\themes\apple4us/page.php:17
+# D:\usr\www\wp-content\themes\apple4us/tags.php:18
+# D:\usr\www\wp-content\themes\apple4us/archives.php:62
+# D:\usr\www\wp-content\themes\apple4us/page-links.php:26
+msgid "Edit your pages"
+msgstr "编辑页面"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:19
+msgid "Administer the Widgets"
+msgstr "编辑 Widgets"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:19
+msgid "Manage Entries"
+msgstr "编辑日志"
+
+# D:\usr\www\wp-content\themes\apple4us27/sidebar2.php:19
+# D:\usr\www\wp-content\themes\apple4us27/sidebar3.php:19
+msgid "Widgets"
+msgstr "Widgets"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:20
+msgid "Administer the links"
+msgstr "管理友情链接"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:20
+msgid "Links"
+msgstr "链接"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:20
+msgid "Add new links"
+msgstr "添加友情链接"
+
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:20
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:21
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:30
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:20
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:21
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:30
+msgid "Add"
+msgstr "添加"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:19
+msgid "Administer the Media"
+msgstr "管理媒体文件"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:109
+msgid "Media"
+msgstr "媒体"
+
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:21
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:21
+msgid "Upload new media files"
+msgstr "上传新的媒体文件"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:28
+msgid "Administer the comments"
+msgstr "管理评论"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:28
+msgid "Comments"
+msgstr "评论"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:29
+msgid "Change the blog's look and feel"
+msgstr "修改 blog 主题，让它更好看点"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:29
+msgid "Design"
+msgstr "主题"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:30
+msgid "Administer the plugins"
+msgstr "修改外观，设置主题模板。"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:30
+msgid "Plugins"
+msgstr "插件"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:30
+msgid "Install new plugins"
+msgstr "安装新的插件"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:31
+msgid "Change the blog's options"
+msgstr "修改 Blog 设置"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:31
+msgid "Options"
+msgstr "设置"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:32
+msgid "Administer the users"
+msgstr "编辑用户"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:32
+msgid "Users"
+msgstr "用户"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:19
+msgid "Manage your profile"
+msgstr "编辑你的档案"
+
+# D:\usr\www\wp-content\themes\apple4us28/sidebar2.php:32
+# D:\usr\www\wp-content\themes\apple4us28/sidebar3.php:32
+msgid "You"
+msgstr "你"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout"
+msgstr "退出"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:33
+msgid "Logout of Wordpress"
+msgstr "退出 WordPress"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:42
+msgid "About"
+msgstr "关于"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "Welcome to"
+msgstr "欢迎来到"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "I am"
+msgstr "我是"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:44
+msgid "More about here"
+msgstr "更多介绍"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarl.php:53
+msgid "Recent Posts"
+msgstr "最新日志"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:98
+msgid "Recent Readers"
+msgstr "最近读者"
+
+# D:\usr\www\wp-content\themes\apple4us/sidebarr.php:109
+msgid "Meta"
+msgstr "其他"
+

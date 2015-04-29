@@ -1,0 +1,110 @@
+/* sidebar for apple4us ------------------------------------------------------------ */
+
+#sb1 h2,#sb2 h2,
+#sb1 h3,#sb2 h3,
+#sb3 h2,#sb3 h3,
+h2.widgettitle {
+padding: 0 3px;
+margin: 0 0 6px 0;
+font-size: 18px;
+font-weight: bold;
+color:#999999;
+line-height: 24px;
+height: 24px;
+display:block;
+}
+
+#sb1 h2 a ,#sb2 h2 a ,
+#sb1 h3 a ,#sb2 h3 a , 
+#sb3 h2 a ,#sb3 h3 a , 
+h2.widgettitle a {
+color:#0066cc;/**/
+text-decoration: none;
+}
+
+
+#sb1 h2 a:hover ,#sb2 h2 a:hover ,
+#sb1 h3 a:hover ,#sb2 h3 a:hover , 
+#sb3 h2 a:hover ,#sb3 h3 a:hover ,
+h2.widgettitle a:hover {
+text-decoration: none;
+}
+
+#sb1 ol,#sb2 ol,#sb3 ol {
+margin: 10px 5px 20px 5px;
+display:block;
+clear:both;
+}
+
+#sb1 ul,#sb2 ul,#sb3 ul,#sb1 .textwidget,#sb2 .textwidget,#sb3 .textwidget {
+margin: 0;
+padding: 0 0 0 6px;
+line-height: 1.5em;
+list-style: none;
+display:block;
+clear:both;
+}
+
+#sb1 ul a ,#sb2 ul a,#sb3 ul a {
+color:#0063DC;
+}
+
+#sb1 ul a:hover ,#sb2 ul a:hover,#sb3 ul a:hover {
+text-decoration: underline;
+color:#FF9900;
+}
+
+#sb1 li,#sb2 li,#sb3 li {
+display: block;
+padding: 2px 0 0 0;
+text-decoration: none;
+font-size: 13px;
+line-height: 22px;
+border-bottom:1px solid #EEEEEE;
+}
+
+#sb1 li a ,#sb2 li a ,#sb3 li a {
+color: #0063DC;
+text-decoration: none;
+} 
+
+#sb1 li a:hover,#sb2 li a:hover,#sb3 li a:hover  {
+text-decoration: none;
+color: #FF9900;
+}
+
+#sb1 ul li ul.children li {
+	background: url('../images/children.gif') 0 0 no-repeat;
+	padding-left: 16px;
+	}
+#sb2 ul li ul.children li {
+	background: url('../images/children.gif') 0 0 no-repeat;
+	padding-left: 16px;
+	}
+#sb3 ul li ul.children li {
+	background: url('../images/children.gif') 0 0 no-repeat;
+	padding-left: 16px;
+	}
+
+/*Begin Admin Bar in homepage*/
+
+.sb2bar, .sb3bar {
+	float: left;
+	width: 45%;
+	}
+.sb1bar ul.admin-bar li,
+.sb2bar ul.admin-bar li,
+.sb3bar ul.admin-bar li{
+display: block;
+padding: 2px 0 0 0;
+text-decoration: none;
+font-size: 13px;
+line-height: 20px;
+border-bottom:0px solid #EEEEEE !important;
+}
+
+.sb1bar ul.admin-bar li a img,.sb2bar ul.admin-bar li a img,.sb3bar ul.admin-bar li a img {
+border: 0 solid;
+padding: 0 3px 0 0;
+vertical-align: middle;
+}
