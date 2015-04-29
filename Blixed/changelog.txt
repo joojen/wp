@@ -1,0 +1,9 @@
+Version 1.0
+1. Renamed Bx_functions.php to functions.php and removed the reference to that bx_functions.php
+from the header.php .
+2. Made the navigation to use "wp_list_pages".
+3. changed the style.css to use current_page_item, instead of "selected".
+4. renamed "archives.php" to "page-archives.php".
+5. updated the page-archives.php for WP 2.1 table changes.
+6. pages now supports comments too.
+7. Added a screenshot for preview.
