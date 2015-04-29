@@ -1,4 +1,4 @@
-<!--begin most view-->
+<!--begin most view 需要相关插件支持-->
 
   		<?php if (function_exists('get_timespan_most_viewed')) { ?>
 
